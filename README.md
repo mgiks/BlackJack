@@ -1,1 +1,1 @@
-Just initialize the application, the program will guide you.
+Just run the code, the program will guide you.
